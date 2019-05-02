@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "title": "example1",
+            "time": 120
+        },
+        {
+            "title": "example2",
+            "time": 120
+        }
+    ]
+}
