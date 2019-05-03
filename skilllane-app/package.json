@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "history": "^4.9.0",
     "jquery": "^3.4.1",
     "mdbreact": "^4.13.0",
     "popper.js": "^1.15.0",
